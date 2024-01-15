@@ -13,7 +13,7 @@ ii. Calcula la paridad impar de las siguientes cadenas:
   d) 1111110 0111111
   
 *** Adrián Aguilera Moreno
-Cada equipo tendrá que realizar las siguientes ac9vidades explicando y con capturas de pantalla
+Cada equipo tendrá que realizar las siguientes actividades explicando y con capturas de pantalla
 de lo siguiente:
  i. Crear un archivo (del 9po, tamaño y extensión que prefieran).
 
